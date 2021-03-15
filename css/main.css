@@ -1,8 +1,8 @@
 /*Header*/
 
 header {
-    background-color: darkblue;
-    color: white;
+    background-color: #00008B;
+    color: #FFFFFF;
 }
 h2 {
     font-family: 'Open Sans', sans-serif;
@@ -35,13 +35,13 @@ nav li {
 }
 
 nav a {
-    color: white;
+    color: #FFFFFF;
 }
 
 /*About*/
 
 .about {
-      background-color: royalblue;
+      background-color: #4169E1;
 }
   
 .chibits {
@@ -51,7 +51,7 @@ nav a {
 /*Q&A*/
 
 .recent {
-      background-color: cornflowerblue;
+      background-color: #6495ED;
 }
 
 .profile {
@@ -60,13 +60,13 @@ nav a {
 
   /*Professional*/
 .experience {
-      background-color: skyblue;
+      background-color: #87CEEB;
 }
 
   /*Contact*/
 
 .contact {
-    background-color: lightblue;
+    background-color: #ADD8E6;
 }
 
 .contact ul {
