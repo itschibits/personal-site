@@ -1,5 +1,9 @@
 /*Header*/
 
+header {
+    background-color: #00008B;
+    color: #FFFFFF;
+}
 h2 {
     font-family: 'Open Sans', sans-serif;
     margin: 0 auto;
@@ -7,57 +11,79 @@ h2 {
     text-align: center;
   }
   
-  h4 {
+h4 {
     font-family: 'Open Sans', sans-serif;
     margin: 0 auto;
     padding: 10px;
     text-align: center;
   }
 
-  /*Nav*/
+/*Nav*/
 
 nav {
     text-align: center;
   }
   
-  nav ul{
+nav ul{
     margin: 0 10px;
     padding: 10px;
-  }
+}
   
-  nav li {
+nav li {
     display: inline;
     padding: 0 20px;
-  }
+}
 
-  /*About*/
+nav a {
+    color: #FFFFFF;
+}
 
-  .chibits {
+/*About*/
+
+.about {
+      background-color: #4169E1;
+}
+  
+.chibits {
       width: 150px;
-  }
-  /*Q&A*/
+}
+  
+/*Q&A*/
 
-  .profile {
+.recent {
+      background-color: #6495ED;
+}
+
+.profile {
       width: 120px;
-  }
+}
+
+  /*Professional*/
+.experience {
+      background-color: #87CEEB;
+}
 
   /*Contact*/
+
+.contact {
+    background-color: #ADD8E6;
+}
 
 .contact ul {
     list-style: none;
   }
   
-  .contact li {
+.contact li {
     display: inline;
-  }
+}
   
-  .github {
+.github {
     width: 45px;
-  }
+}
   
-  .linkedin, .mail, .twitch {
+.linkedin, .mail, .twitch {
     width: 40px;
-  }
+}
 
   /*Footer*/
 
