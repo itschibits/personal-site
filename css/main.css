@@ -30,6 +30,12 @@ nav {
     padding: 0 20px;
   }
 
+  /*Q&A*/
+
+  .profile {
+      width: 120px;
+  }
+
   /*Contact*/
 
 .contact ul {
